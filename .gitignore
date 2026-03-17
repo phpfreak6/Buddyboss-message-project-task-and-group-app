@@ -1,0 +1,81 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+
+# Android
+*.keystore
+*.jks
+*.p12
+*.key
+*.pem
+android/app/build/
+android/build/
+android/.gradle/
+local.properties
+.gradle/
+build/
+captures/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Metro bundler
+.metro-health-check*
+
+# React Native
+*.hprof
+
+# Watchman
+.watchmanconfig
+
+# IDEs
+.idea/
+
+# Logs
+logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Environment files
+
+# Expo (if using Expo)
+.expo/
+.expo-shared/
+
+# Bundle artifacts
+*.jsbundle
+
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Misc
+coverage/
+config.bat

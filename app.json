@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "octopus",
+    "slug": "octopus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/android/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.octopusworkapp.applenew"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/android/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.octopusworkapp.applenew"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "@notifee/react-native",
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "ios": {
+            "backgroundColor": "#ffffff",
+            "image": "./assets/images/ios/splash.png",
+            "resizeMode": "cover"
+          },
+          "android": {
+            "backgroundColor": "#ffffff",
+            "image": "./assets/images/android/splash.png"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "39de190d-76bf-4ecb-b5f7-790bab52a25e"
+      }
+    },
+    "splash": {
+      "image": "./assets/images/android/splash.png",  
+      "resizeMode": "cover",                  
+      "backgroundColor": "#ffffff"           
+    }
+  }
+}

@@ -1,0 +1,12 @@
+$primary-color: #3498db;
+$font-size: 18px;
+
+.container {
+  background-color: $primary-color;
+  padding: 60px;
+}
+
+.text {
+  font-size: $font-size;
+  color: white;
+}

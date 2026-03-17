@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1001175006075",
+    "project_id": "pc-api-8354423067806132239-783",
+    "storage_bucket": "pc-api-8354423067806132239-783.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001175006075:android:25342c72a43bf99f84dbde",
+        "android_client_info": {
+          "package_name": "com.octopusworkapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001175006075-tjkaci6h9o9roqc36j42bqpgum5kkou7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUp94Rfp3vaRKYP3oMLAmPxP6buEyh_uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001175006075-tjkaci6h9o9roqc36j42bqpgum5kkou7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001175006075-ig3do3fronn0a5h2c3e59ovhmkv0pd4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.octopusworkapp.applenew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001175006075:android:f7b03432a666e46684dbde",
+        "android_client_info": {
+          "package_name": "com.octopusworkapp.android.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001175006075-tjkaci6h9o9roqc36j42bqpgum5kkou7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUp94Rfp3vaRKYP3oMLAmPxP6buEyh_uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001175006075-tjkaci6h9o9roqc36j42bqpgum5kkou7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001175006075-ig3do3fronn0a5h2c3e59ovhmkv0pd4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.octopusworkapp.applenew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001175006075:android:eabe9378c668db8784dbde",
+        "android_client_info": {
+          "package_name": "com.octopusworkapp.androidv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001175006075-tjkaci6h9o9roqc36j42bqpgum5kkou7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUp94Rfp3vaRKYP3oMLAmPxP6buEyh_uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001175006075-tjkaci6h9o9roqc36j42bqpgum5kkou7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001175006075-ig3do3fronn0a5h2c3e59ovhmkv0pd4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.octopusworkapp.applenew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
